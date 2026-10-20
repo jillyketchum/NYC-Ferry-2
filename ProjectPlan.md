@@ -33,8 +33,11 @@ Ella N:
 
 
 Research Question:
-
+How are global food insecurity rates correlated to food price inflation?
 Datasets:
+1. Food Price Inflation (https://data360.worldbank.org/en/indicator/FAO_CP_23014?view=bar&minYear=2001-JAN&maxYear=2026-MAR)- This dataset comes from the World Bank. It describes the month to month changes in food price inflation in countries around the world. 
+2. Moderately or Severely Food Insecure People (https://data360.worldbank.org/en/indicator/FAO_FS_210081?view=datatable&minYear=2016&maxYear=2025&SEX=_T%2CF%2CM) - This dataset also comes from the World Bank. It describes the number of people in a country, in millions, deemed to be moderately or severely food insecure.
+3. Consumer Prices, Food Indices (https://data360.worldbank.org/en/indicator/FAO_CP_23013?view=datatable&minYear=2000-JAN&maxYear=2026-MAR) - This dataset also comes from the World Bank. It shows how the cost of food has changed with respect to 2015 prices.  
 
 Timeline:
 
