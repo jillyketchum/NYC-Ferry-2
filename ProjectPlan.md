@@ -1,6 +1,32 @@
 Overview:
+The goal of our project is to analyze whether global food prices relate to food insecurity rates. To do this, we will use three datasets from the World Bank’s Data360 site: food price inflation, the food consumer price index, and the number of people who are moderately or severely food insecure. Together, these datasets allow us to understand whether countries with sharper or more sustained food price increases saw larger rises in food insecurity. Our approach follows the data curation workflow discussed in class. We will first collect each dataset through the Data360 API using separate Python Scripts. Next, we will assess the quality of each dataset across accuracy, completeness, timeliness, and consistency, all of which will help to clean the datasets. This also includes standardizing data and handling missing data. Then, we will merge the cleaned datasets by country and year, fulfilling the assignment requirement that the datasets must be joined. After verifying everything is ready for analysis, we can analyze how food price trends relate to changes in food insecurity. All of the discussed content will be written in a final report. 
 
 Team:
+Christine W: 
+- Collect metadata for each dataset for reproducibility and provenance
+- Exploratory analysis into datasets. Assessment of accuracy, completeness, timeliness, and consistency. (with Jillian)
+Cleaning the joined dataset (with Ella)
+Finalize the written report (with the entire group)
+Jillian K: 
+Identify legal constraints for the use and analysis of each dataset
+Download/collect the datasets (with Christine)
+Exploratory analysis into datasets (with Christine)
+Provide a workflow (with Shubhayon)
+Finalize the written report (with the entire group)
+Shubhayon M:
+Evaluate data lifecycle for each dataset
+Join the datasets (with Ella)
+Evaluate accuracy, completeness, timeliness, consistency for joined dataset (with Ella)
+Provide workflow (with Jillian)
+Finalize the written report (with the entire group)
+Ella N:
+Collect data on the organization behind the creation of each dataset
+Join the datasets (with Shubhayon)
+Assess accuracy, completeness, timeliness, and consistency for the joined dataset (with Shubhayon)
+Clean the joined dataset (with Christine)
+Create a ReadMe file
+Finalize the written report (with the entire group)
+
 
 Research Question:
 
