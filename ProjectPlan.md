@@ -38,53 +38,53 @@ Datasets:
 
 Timeline:
 
-Check data lifecycle of each dataset: We will relate our project to one or more of the lifecycle models discussed in class.
-- Date completed: Nov 2, 2026
-- Complete by who: Shubhayon
+1. Check data lifecycle of each dataset: We will relate our project to one or more of the lifecycle models discussed in class.
+  - Date completed: Nov 2, 2026
+  - Complete by who: Shubhayon
   
-Collect metadata for each dataset for reproducibility: 
-- Date completed: Nov 2, 2026  
-- Complete by who: Christine
+2. Collect metadata for each dataset for reproducibility: 
+  - Date completed: Nov 2, 2026  
+  - Complete by who: Christine
 
-Collect data on the organization behind the creation of each dataset: 
-- Date completed: Nov 2nd, 2026
-- Complete by who: Ella
+3. Collect data on the organization behind the creation of each dataset: 
+  - Date completed: Nov 2nd, 2026
+  - Complete by who: Ella
 
-Identify legal constraints for the use and analysis of each dataset: This includes issues related to copyright, licenses, and terms for all of our datasets. This information will be added to the written report as well. 
-- Date completed: Nov 2nd, 2026
-- Complete by who: Jillian
+4. Identify legal constraints for the use and analysis of each dataset: This includes issues related to copyright, licenses, and terms for all of our datasets. This information will be added to the written report as well. 
+  - Date completed: Nov 2nd, 2026
+  - Complete by who: Jillian
 
-Download/collect the datasets: Once datasets are found, a paragraph for the written report will be made with all four quality dimensions used in grading: accuracy, completeness, timeliness, and consistency
-- Date completed: Nov 2nd, 2026
-- Complete by who: Christine, Jillian
+5. Download/collect the datasets: Once datasets are found, a paragraph for the written report will be made with all four quality dimensions used in grading: accuracy, completeness, timeliness, and consistency
+  - Date completed: Nov 2nd, 2026
+  - Complete by who: Christine, Jillian
 
-Exploratory analysis into datasets. Assessment of accuracy, completeness, timeliness, and consistency. Check if it is feasible to join the datasets and if they are able to answer the research question
-- Date completed: Nov 9th, 2026
-- Complete by who: Jillian, Christine
+6. Exploratory analysis into datasets. Assessment of accuracy, completeness, timeliness, and consistency. Check if it is feasible to join the datasets and if they are able to answer the research question
+  - Date completed: Nov 9th, 2026
+  - Complete by who: Jillian, Christine
 
-Joining datasets: The datasets each contribute different information related to food insecurity needed to address our question, and they will be joined into one dataset
-- Date completed: Nov 15th, 2026
-- Complete by who: Shubhayon, Ella
+7. Joining datasets: The datasets each contribute different information related to food insecurity needed to address our question, and they will be joined into one dataset
+  - Date completed: Nov 15th, 2026
+  - Complete by who: Shubhayon, Ella
 
-Assessment of accuracy, completeness, timeliness, and consistency for the joined dataset
-- Date completed: Nov 19, 2026
-- Complete by who: Shubhayon, Ella
+8. Assessment of accuracy, completeness, timeliness, and consistency for the joined dataset
+  - Date completed: Nov 19, 2026
+  - Complete by who: Shubhayon, Ella
 
-Cleaning datasets: The datasets will be cleaned, missing values will be taken care of, as well as columns that we do not need for our analysis will be dropped. We will add to the written report the data cleaning methods applied (e.g., missing values, outliers, syntactic or semantic cleaning)
-- Date completed: Nov 25, 2026
-- Complete by who: Christine, Ella
+9. Cleaning datasets: The datasets will be cleaned, missing values will be taken care of, as well as columns that we do not need for our analysis will be dropped. We will add to the written report the data cleaning methods applied (e.g., missing values, outliers, syntactic or semantic cleaning)
+  - Date completed: Nov 25, 2026
+  - Complete by who: Christine, Ella
 
-Provide a workflow composed of separate, single-purpose scripts tied together by an orchestrator
-- Date completed: Dec 1st, 2026
-- Complete by who: Shubhayon, Jillian
+10. Provide a workflow composed of separate, single-purpose scripts tied together by an orchestrator
+  - Date completed: Dec 1st, 2026
+  - Complete by who: Shubhayon, Jillian
 
-Create a ReadMe file: A written description that introduces the project and how to use it.
-- Date completed: Dec 6th, 2026
-- Complete by who: Ella
+11. Create a ReadMe file: A written description that introduces the project and how to use it.
+  - Date completed: Dec 6th, 2026
+  - Complete by who: Ella
 
-Finalize written report: Many components of the report will be worked on as the above steps are completed, so our final step is to make sure the report includes all necessary components.
-- Date completed: Dec 8th, 2026
-- Complete by who: Christine, Ella, Shubhayon, Jillian
+12. Finalize written report: Many components of the report will be worked on as the above steps are completed, so our final step is to make sure the report includes all necessary components.
+  - Date completed: Dec 8th, 2026
+  - Complete by who: Christine, Ella, Shubhayon, Jillian
 
 
 Constraints:
