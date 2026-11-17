@@ -1,11 +1,14 @@
-Collect data on the organization behind the creation of each dataset:
+# About the Organization Behind the Creation of Each Dataset:
+
+Before processing our datasets, we first gathered information on the organization that the data comes from. This is an important step for understanding the context and credibility of our data. 
 
 All three datasets chosen are on the World Bank’s Data360 platform, but the original data is from the Food and Agriculture Organization of the United Nations (FAO). The FAO was established in 1945 and is a specialized agency that leads efforts to achieve food security internationally. This is defined as making sure people have regular access to food that is of high enough quality for them to live an active and healthy life. There are 194 members in the FAO, including 193 countries and the European Union. Its headquarters is in Rome, Italy, but there are offices worldwide. 
 
-While this project accessed the datasets through the World Bank Group, which provides the metadata, the FAO is still the primary organization behind all three datasets. For the first dataset on food price inflation, the FAO collects and publishes the international food price statistics. The second dataset is on moderately or severely food insecure people. The FAO provides this data by using its Food Insecurity Experience Scale (FIES) to measure hunger, food security, and food consumption. The third dataset, Consumer Prices, Food Indices, is compiled by the FAO, which publishes Consumer Price Index (CPI) data through FAOSTAT. 
+While this project accessed the datasets through the World Bank Group, which provides the metadata, the FAO is still the primary organization behind all three datasets. For the first dataset on food price inflation, the FAO collects and publishes the international food price statistics. The second dataset is on moderately or severely food-insecure people. The FAO provides this data by using its Food Insecurity Experience Scale (FIES) to measure hunger, food security, and food consumption. The FIES measures food access specifically and classifies it into three main levels. The highest is "Food Security or Mild Food Insecurity," which means the individual or household has adequate access to food but may be uncertain about access in the future. The middle tier is titled "Moderate Food Insecurity." The individuals or households on the higher end compromise on food quality and variety, while the lower end reduces food quantity or skips meals. The lowest on the scale is "Severe Food Insecurity," defined by no food for a day or more. The third dataset, Consumer Prices, Food Indices, is compiled by the FAO, which publishes Consumer Price Index (CPI) data through FAOSTAT. They do this by using household expenditure weights and aggregating across countries.
 
 References: 
-https://www.fao.org/about/about-fao/en/ 
-https://www.fao.org/about/who-we-are/worldwide-offices/en/ 
-https://www.fao.org/prices/en 
-https://www.fao.org/measuring-hunger/access-to-food/about-the-food-insecurity-experience-scale-(fies)/en 
+- Overview: FAO: Food and Agriculture Organization of the United Nations. AboutFAO. (2025, September 3). https://www.fao.org/about/about-fao/en/ 
+- Worldwide offices: FAO: Food and Agriculture Organization of the United Nations. AboutFAO. (2026, June 25). https://www.fao.org/about/who-we-are/worldwide-offices/en/ 
+- FAO: Food and Agriculture Organization of the United Nations. Prices. (2026, May 8). https://www.fao.org/prices/en 
+- About the food insecurity experience scale (FIES): Measuring hunger, food security and food consumption: Food and Agriculture Organization of the United Nations. MeasuringHunger. (2025, December 9). https://www.fao.org/measuring-hunger/access-to-food/about-the-food-insecurity-experience-scale-(fies)/en 
+
