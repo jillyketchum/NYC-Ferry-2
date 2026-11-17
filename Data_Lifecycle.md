@@ -4,7 +4,7 @@ Plan: The main goal of our project is to understand the dynamic relationship bet
 
 Acquire: All three datasets come from the same source, and can either be downloaded as a CSV or accessed through an API. We will be downloading each as a CSV.
 
-Process: In order to gain proper insights, the datasets need to be integrated and cleaned. Given each dataset contains information about countries around the world, they will be joined on their names. Then, the merged dataset needs to be cleaned. This includes correcting any formatting differences, making sure dates are valid, dropping irrelevant columns, and dealing with missing values. All of this will be done using Open Refine. 
+Process: In order to gain proper insights, the datasets need to be integrated and cleaned. Given each dataset contains information about countries around the world, they will be joined on their names. Then, the merged dataset needs to be cleaned. This includes correcting any formatting differences, making sure dates are valid, dropping irrelevant columns, and dealing with missing values. All of this will be done using both Python and Open Refine. 
 
 Analyze: Using the integrated and cleaned dataset, we will be using tools such as Python and Microsoft Excel to look at patterns and trends using descriptive statistics and visualizations. 
 
