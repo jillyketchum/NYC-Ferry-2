@@ -5,7 +5,7 @@
 <li>Timeliness: Most recent data is from March 2026.</li>
 <li>Consistency</li>
 </ul>
-<b>Overall Assessment of Quality:</b>
+<b>Overall Assessment of Quality:</b><br>
 <br><b>Moderately or Severely Food Insecure People</b>
 <ul>
 <li>Accuracy:</li>
