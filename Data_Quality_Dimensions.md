@@ -6,7 +6,7 @@
 <li>Consistency</li>
 </ul>
 <b>Overall Assessment of Quality:</b>
-<b>Moderately or Severely Food Insecure People</b>
+<br><b>Moderately or Severely Food Insecure People</b>
 <ul>
 <li>Accuracy:</li>
 <li>Completeness:</li>
@@ -14,7 +14,7 @@
 <li>Consistency</li>
 </ul>
 <b>Overall Assessment of Quality:</b>
-<b>Consumer Prices, Food Indices</b>
+<br><b>Consumer Prices, Food Indices</b>
 <ul>
 <li>Accuracy:</li>
 <li>Completeness:</li>
