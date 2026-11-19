@@ -25,6 +25,22 @@ Looking at our feedback from Milestone 2, we did not make any changes to the con
 8. Assessment of accuracy, completeness, timeliness, and consistency for the joined dataset
   - In progress by Shubhayon, Ella
 
+9. Cleaning datasets: The datasets will be cleaned, missing values will be taken care of, as well as columns that we do not need for our analysis will be dropped. We will add to the written report the data cleaning methods applied (e.g., missing values, outliers, syntactic or semantic cleaning)
+  - Date to be completed: Nov 25, 2026
+  - Completed by who: Christine, Ella
+
+10. Provide a workflow composed of separate, single-purpose scripts tied together by an orchestrator
+  - Date to be completed: Dec 1st, 2026
+  - Completed by who: Shubhayon, Jillian
+
+11. Create a ReadMe file: A written description that introduces the project and how to use it.
+  - Date to be completed: Dec 6th, 2026
+  - Completed by who: Ella
+
+12. Finalize written report: Many components of the report will be worked on as the above steps are completed, so our final step is to make sure the report includes all necessary components.
+  - Date completed: Dec 8th, 2026
+  - Completed by who: Christine, Ella, Shubhayon, Jillian
+
 <h2>Changes to Project Plan</h2>
 <h2>Challenges</h2>
 <h2>Individual Contributions</h2>
