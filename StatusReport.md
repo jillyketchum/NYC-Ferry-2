@@ -1,4 +1,5 @@
 <h2>Task Progress and Updated Timeline</h2>
+Looking at our feedback from Milestone 2, we did not make any changes to the content of our plan based on that since there were no critiques. However, since there are more factors to consider for joining the datasets, we will continue to revise that section to help best answer our project question.
 
 1. Check data lifecycle of each dataset: We will relate our project to one or more of the lifecycle models discussed in class.
   - Completed by Shubhayon
