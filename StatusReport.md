@@ -1,4 +1,29 @@
 <h2>Task Progress and Updated Timeline</h2>
+
+1. Check data lifecycle of each dataset: We will relate our project to one or more of the lifecycle models discussed in class.
+  - Completed by Shubhayon
+
+2. Collect metadata for each dataset: 
+  - Completed by Christine
+
+3. Collect data on the organization behind the creation of each dataset: 
+  - Completed by Ella
+
+4. Identify legal constraints for the use and analysis of each dataset: This includes issues related to copyright, licenses, and terms for all of our datasets. This information will be added to the written report as well.
+  - Completed by Jillian
+
+5. Download/collect the datasets: Once datasets are found, a paragraph for the written report will be made with all four quality dimensions used in grading: accuracy, completeness, timeliness, and consistency
+  - Completed by Christine, Jillian
+
+6. Exploratory analysis into datasets. Assessment of accuracy, completeness, timeliness, and consistency. Check if it is feasible to join the datasets and if they are able to answer the research question
+  - Completed by Jillian, Christine
+
+7. Joining datasets: The datasets each contribute different information related to food insecurity needed to address our question, and they will be joined into one dataset
+  - In progress by Shubhayon, Ella
+
+8. Assessment of accuracy, completeness, timeliness, and consistency for the joined dataset
+  - In progress by Shubhayon, Ella
+
 <h2>Changes to Project Plan</h2>
 <h2>Challenges</h2>
 <h2>Individual Contributions</h2>
